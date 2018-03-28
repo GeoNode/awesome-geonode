@@ -11,6 +11,7 @@ GeoNode is a library used to create web based data sharing platforms. This list 
  - [geonode-react-client] (https://github.com/GeoNode/geonode-client)
 
 ## Docker Implementations
+ - [spcgeonode] (https://github.com/olivierdalang/SPCgeonode)
 
 ## Experiments
 
