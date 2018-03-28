@@ -6,15 +6,23 @@ GeoNode is a library used to create web based data sharing platforms. This list 
 
 ## Custom formats
 
+## Custom apps
+ - [Clip and ship](https://github.com/HaitiData/haitidata) on [haitidata.org](http://haitidata.org/)
+ - [GeoSAFE](https://github.com/kartoza/docker-geosafe) Online version from the [InaSAFE](http://inasafe.org) project. Demo on http://geonode.kartoza.com/
+
 ## Mapping Clients
- - [maploom] (https://github.com/ROGUE-JCTD/django-maploom)
- - [geonode-react-client] (https://github.com/GeoNode/geonode-client)
+ - [maploom](https://github.com/ROGUE-JCTD/django-maploom)
+ - [geonode-react-client](https://github.com/GeoNode/geonode-client)
 
 ## Docker Implementations
- - [spcgeonode] (https://github.com/olivierdalang/SPCgeonode)
+ - [spcgeonode](https://github.com/olivierdalang/SPCgeonode)
+ - [Rancher catalogue with QGIS backend](https://github.com/kartoza/kartoza-rancher-catalogue)
+
+## Development environment
+ - [GeoSAFE](https://github.com/kartoza/docker-geosafe) is using Ansible to deploy a development environment using docker and PyCharm.
 
 ## Experiments
 
 ## Non Open Source
 
- - [boundless-exchange] (https://boundlessgeo.com/boundless-exchange/)
+ - [boundless-exchange](https://boundlessgeo.com/boundless-exchange/)
