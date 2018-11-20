@@ -28,4 +28,4 @@ GeoNode is a library used to create web based data sharing platforms. This list 
 
 ## Online workshops
  - [Developers workshop](http://geonode.org/dev-workshop/#/)
- - [Users workshop](geonode.org/geonode-workshop/foss4git2017/)
+ - [Users workshop](http://geonode.org/geonode-workshop/foss4git2017/#/)
